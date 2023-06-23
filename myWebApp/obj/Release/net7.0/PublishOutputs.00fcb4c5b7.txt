@@ -1,0 +1,7 @@
+/Users/jmanuelcalvo/myWebApp/bin/Release/net7.0/publish/myWebApp
+/Users/jmanuelcalvo/myWebApp/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/jmanuelcalvo/myWebApp/bin/Release/net7.0/publish/appsettings.json
+/Users/jmanuelcalvo/myWebApp/bin/Release/net7.0/publish/myWebApp.dll
+/Users/jmanuelcalvo/myWebApp/bin/Release/net7.0/publish/myWebApp.deps.json
+/Users/jmanuelcalvo/myWebApp/bin/Release/net7.0/publish/myWebApp.runtimeconfig.json
+/Users/jmanuelcalvo/myWebApp/bin/Release/net7.0/publish/myWebApp.pdb
